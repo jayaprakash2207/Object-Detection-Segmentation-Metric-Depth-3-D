@@ -258,7 +258,7 @@ We believe in collaborative innovation! Contributions are welcome and encouraged
 ### Community
 - 💬 [Discussions](https://github.com/jayaprakash2207/Object-Detection-Segmentation-Metric-Depth-3-D/discussions) - Share ideas and get help
 - 🐛 [Issues](https://github.com/jayaprakash2207/Object-Detection-Segmentation-Metric-Depth-3-D/issues) - Report bugs and request features
-- 📧 Contact: jayaprakash@example.com
+- 📧 Contact: jayaprakash@gmail.com
 
 ## 📄 License
 
