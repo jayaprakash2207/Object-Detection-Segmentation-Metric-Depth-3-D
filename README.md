@@ -230,7 +230,7 @@ Experience the pipeline transforming a simple photo into a fully analyzed 3D sce
 
 ## 👤 Author
 
-**Jayaprakash Kumar**  
+**Jayaprakash A.R.**  
 *AI Engineer & Computer Vision Specialist*  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/jayaprakash-kumar)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/jayaprakash2207)
