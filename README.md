@@ -232,9 +232,9 @@ Experience the pipeline transforming a simple photo into a fully analyzed 3D sce
 
 **Jayaprakash A.R.**  
 *AI Engineer & Computer Vision Specialist*  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/jayaprakash-kumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/jayaprakash2005)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/jayaprakash2207)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/jayaprakash_k)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/jayaprakash_x7)
 
 *Passionate about pushing the boundaries of AI-driven vision systems*
 
